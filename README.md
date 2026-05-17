@@ -27,13 +27,13 @@ An interactive Power BI dashboard analyzing Airbnb business performance, custome
 ## Dashboard Preview
 
 ### Listings Growth
-![Overview](screenshots/overview.png)
+![Overview](Screenshots/overview.png)
 
 ### Market Share & Ratings
-![Market Share](screenshots/market-share-ratings.png)
+![Market Share](Screenshots/market-share-ratings.png)
 
 ### Reviews & Trust
-![Reviews](screenshots/reviews-trust.png)
+![Reviews](Screenshots/reviews-trust.png)
 
 ---
 
